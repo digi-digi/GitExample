@@ -94,9 +94,19 @@ public class Main {
 //        System.out.println("Podaj liczbę kostek: ");
 //        Scanner scanner = new Scanner(System.in);
 //        int number = scanner.nextInt();
-//        System.out.println(Dicer.rollDice());
+//        System.out.println(Dicer.rollDice(number));
+
+//        Dog piesel = new Dog();
+//        System.out.println(piesel.getNumberOfLegs());
+//        System.out.println(piesel.name);
+//        Ubranko krawat = new Ubranko(15, "krawat zielony");
+//        Ubranko skarpety = new Ubranko(10, "czerwony", "skarpety czerwone");
+
 
         Osoby ania = new Osoby("Anna", "Tre", Gender.FEMALE);
+        Osoby ania1 = new Osoby("Anna", "Tre", Gender.FEMALE);
+
+        System.out.println(ania.equals(ania1));
         System.out.println(ania);
 
 //        String a = new String("Java");

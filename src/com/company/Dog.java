@@ -14,7 +14,7 @@ public class Dog {
     }
 
     public void bark(){
-        System.out.println("hau hau");
+        System.out.println("hau hau - " + name);
     }
 
     public int getNumberOfLegs() {

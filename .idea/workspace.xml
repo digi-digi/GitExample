@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c089d41-d451-4e47-afe5-5c6b244768ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Ubranko.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/com/company/Dicer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/company/Dicer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/com/company/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/company/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/com/company/Gender.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/company/Gender.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/com/company/Osoby.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/company/Osoby.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Dicer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Dicer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Gender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,11 +25,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="3440" />
+          <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="3440" />
+          <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -62,7 +53,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
+            <state relative-caret-position="482">
               <caret line="120" column="34" selection-start-line="120" selection-start-column="34" selection-end-line="120" selection-end-column="34" />
             </state>
           </provider>
@@ -261,7 +252,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540663608356" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540663789132" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -303,6 +294,14 @@
       <option name="presentableId" value="Default" />
       <updated>1540629216718</updated>
     </task>
+    <task id="LOCAL-00001" summary="cos tam">
+      <created>1540663729791</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540663729791</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -315,13 +314,13 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" sideWeight="0.49943945" visible="true" weight="0.32988507" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Event Log" sideWeight="0.5005605" side_tool="true" visible="true" weight="0.32988507" />
       <window_info anchor="bottom" id="Messages" weight="0.32988507" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24712643" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24712643" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -339,6 +338,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cos tam" />
+    <option name="LAST_COMMIT_MESSAGE" value="cos tam" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Inheritance1/Inheritance1.iml">
@@ -444,7 +447,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
+        <state relative-caret-position="482">
           <caret line="120" column="34" selection-start-line="120" selection-start-column="34" selection-end-line="120" selection-end-column="34" />
         </state>
       </provider>
